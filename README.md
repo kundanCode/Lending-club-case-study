@@ -1,1 +1,0 @@
-# Lending-club-case-study
